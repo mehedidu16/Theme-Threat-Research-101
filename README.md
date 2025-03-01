@@ -1,4 +1,4 @@
-# Event-Themed Research: Russia-Ukraine War Case Study
+# Event-Themed Threats Research: Case Study on Russia-Ukraine War Themed Website Campaigns
 The original code and data are given inside the directories with the same name within the project directory of **Russia-Ukraine-War-Theme**. This document provides an overview of the methodology and results for clustering analysis performed on a dataset of websites. The analysis includes the selection of the optimal number of clusters, feature reduction, and local explanations for cluster assignments. Below is a summary of the key sections and findings.
 
 # A. Details on Selecting Number of Clusters (k)
